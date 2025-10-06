@@ -1,3 +1,5 @@
+Note: due to some legal issues and the current studios using the engine developed internally for them, I'm unable to release the same code base here. Therefore a new revision with certain changes/differences with we have already sold as a closed source must be developed and get open sourced here. Unfortunately I am very busy at the moment with other projects at until end of 2025. Will update this repo beginning of 2026 with a new version. Currently I need front-end developer/designers contributors for this project as we need some UI for management dashboard. If you were interested please drop me a line at my LinkedIn message or email.
+
 Below is the data that you can adapt to your GitHub repository by forking this repo. It explains the project’s motivation, architecture, setup instructions, and extension points for future maintainers.
 
 #### Motivation
